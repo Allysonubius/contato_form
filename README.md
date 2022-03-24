@@ -5,9 +5,9 @@ A new Flutter project form contact
 
 # Development 
 
-1 - web (Edge, Chrome)
-2 - Mobile Android - Play Store 8.0
-3 - Application Windows
+###### 1 - web (Edge, Chrome)
+###### 2 - Mobile Android - Play Store 8.0
+###### 3 - Application Windows
 
 ## Getting Started
 
