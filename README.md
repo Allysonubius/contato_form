@@ -3,6 +3,12 @@
 A new Flutter project form contact
 <div><img src="./video/video.gif"> </img></div>
 
+# Development 
+
+1 - web (Edge, Chrome)
+2 - Mobile Android - Play Store 8.0
+3 - Application Windows
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
